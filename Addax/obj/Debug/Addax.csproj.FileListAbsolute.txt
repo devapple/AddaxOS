@@ -1,0 +1,8 @@
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\Addax\Addax\bin\Debug\Addax.exe.config
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\Addax\Addax\bin\Debug\Addax.exe
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\Addax\Addax\bin\Debug\Addax.pdb
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\Addax\Addax\obj\Debug\Addax.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\Addax\Addax\obj\Debug\Addax.Properties.Resources.resources
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\Addax\Addax\obj\Debug\Addax.csproj.GenerateResource.Cache
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\Addax\Addax\obj\Debug\Addax.exe
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\Addax\Addax\obj\Debug\Addax.pdb
