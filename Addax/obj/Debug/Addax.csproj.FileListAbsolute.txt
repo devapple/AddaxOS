@@ -6,3 +6,10 @@ C:\Users\Noah\Documents\Visual Studio 2017\Projects\Addax\Addax\obj\Debug\Addax.
 C:\Users\Noah\Documents\Visual Studio 2017\Projects\Addax\Addax\obj\Debug\Addax.csproj.GenerateResource.Cache
 C:\Users\Noah\Documents\Visual Studio 2017\Projects\Addax\Addax\obj\Debug\Addax.exe
 C:\Users\Noah\Documents\Visual Studio 2017\Projects\Addax\Addax\obj\Debug\Addax.pdb
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Debug\Addax.Splash.resources
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Debug\Addax.Form1.resources
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Debug\Addax.Form2.resources
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\bin\Debug\Addax.exe.manifest
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\bin\Debug\Addax.application
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Debug\Addax.exe.manifest
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Debug\Addax.application

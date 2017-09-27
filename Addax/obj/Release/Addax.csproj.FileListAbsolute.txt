@@ -1,0 +1,15 @@
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\bin\Release\Addax.exe.config
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\bin\Release\Addax.exe.manifest
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\bin\Release\Addax.application
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\bin\Release\Addax.exe
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\bin\Release\Addax.pdb
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Release\Addax.csprojResolveAssemblyReference.cache
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Release\Addax.Form1.resources
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Release\Addax.Form2.resources
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Release\Addax.Splash.resources
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Release\Addax.Properties.Resources.resources
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Release\Addax.csproj.GenerateResource.Cache
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Release\Addax.exe.manifest
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Release\Addax.application
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Release\Addax.exe
+C:\Users\Noah\documents\visual studio 2017\Projects\Addax\Addax\obj\Release\Addax.pdb
